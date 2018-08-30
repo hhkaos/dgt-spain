@@ -1,0 +1,24 @@
+{
+  "name": "dgt-spain",
+  "version": "1.0.0",
+  "description": "Scripts para transformar elementos de la Dirección General de Tráficos de JSON a CSV",
+  "main": "common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhkaos/dgt-spain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhkaos/dgt-spain/issues"
+  },
+  "homepage": "https://github.com/hhkaos/dgt-spain#readme",
+  "dependencies": {
+    "json2csv": "^4.2.1",
+    "query-string": "^6.1.0",
+    "request": "^2.88.0"
+  }
+}
